@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Peinan Li is fourth-year PhD candidate at State Key Laboratory of Information Security. His research interests include computer architecture, side-channel attacks and mitigation, transient execution attacks.
+Peinan Li is a fourth-year PhD candidate at State Key Laboratory of Information Security. His research interests include computer architecture, side-channel attacks and mitigation, transient execution attacks.
