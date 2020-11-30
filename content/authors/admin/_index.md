@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Computer System Architecture
     institution: Institute of Information Engineering, CAS
-    year: 2017-
+    year: 2017-Present
   - course: MEng in Computer Technology
     institution: Institute of Automation,CAS; Harbin University of Science and Technology
-    year: 2017
+    year: 2014-2017
   - course: BSc in Software Engineering
     institution: Shanxi University
-    year: 2010
+    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

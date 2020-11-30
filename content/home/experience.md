@@ -19,26 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD"
-  company = "GenCoin"
+  company = "Institute of Information Engineering"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2017-07-15"
   date_end = ""
-  description = """
+  description = """ Advised by Prof. Rui Hou.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Computer Architecture
+  * Microarchitecture Security
+  * RISC-V
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Master"
+  company = "Institute of Automation"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing, China"
+  date_start = "2014-08-20"
+  date_end = "2017-07-05"
+  description = """Advised by Prof. Donglin Wang """
 
 +++
