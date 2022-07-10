@@ -6,7 +6,7 @@ title: Peinan Li
 superuser: true
 
 # Role/position
-role: Fourth year PhD candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,17 @@ bio: My research interests include computer architecture security, side-channel 
 
 interests:
 - Computer Architecture
-- Side-Channel Attacks
-- Transient Execution Attacks
+- Side-Channel Attacks and Defenses
+- Confidential Computing 
+- Cloud Security
 
 education:
   courses:
-  - course: PhD in Computer System Architecture
-    institution: Institute of Information Engineering, CAS
-    year: 2017-Present
+  - course: PhD in Computer Architecture
+    institution: Institute of Information Engineering, University of Chinese Academy of Sciences
+    year: 2017-2021
   - course: MEng in Computer Technology
-    institution: Institute of Automation,CAS; Harbin University of Science and Technology
+    institution: Institute of Automation, University of Chinese Academy of Sciences; Harbin University of Science and Technology.
     year: 2014-2017
   - course: BSc in Software Engineering
     institution: Shanxi University
@@ -72,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Peinan Li is a fourth-year PhD candidate at State Key Laboratory of Information Security. His research interests include computer architecture, side-channel attacks and mitigation, transient execution attacks.
+Peinan Li is an assistant professor at State Key Laboratory of Information Security. His research interests include computer architecture, side-channel attacks and mitigation, confidential computing and cloud security.
