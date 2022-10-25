@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2019-01-01'
 lastmod: 2020-11-30T23:51:00+08:00
-featured: true
+featured: false
 draft: false
 publication: "25th IEEE International Symposium on High Performance Computer Architecture"
 publication_short: "HPCA 2019"

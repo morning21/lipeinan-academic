@@ -28,7 +28,7 @@ education:
     institution: Institute of Information Engineering, University of Chinese Academy of Sciences
     year: 2017-2021
   - course: MEng in Computer Technology
-    institution: Institute of Automation, University of Chinese Academy of Sciences; Harbin University of Science and Technology.
+    institution: Harbin University of Science and Technology.
     year: 2014-2017
   - course: BSc in Software Engineering
     institution: Shanxi University
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Peinan Li is an assistant professor at State Key Laboratory of Information Security. His research interests include computer architecture, side-channel attacks and mitigation, confidential computing and cloud security.
+I am an assistant professor at State Key Laboratory of Information Security, Institute of Information Engineering (IIE), UCAS. I received my PhD degree in 2021, advided by Prof [Rui Hou](http://hourui-arch.net/). My research interests include computer architecture, side-channel attacks and mitigation, confidential computing and cloud security.

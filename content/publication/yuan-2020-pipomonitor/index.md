@@ -9,7 +9,7 @@ authors:
 - Kai Wang
 - "[Rui Hou](http://hourui-arch.net/)"
 - Xiaoxin Li
-- Peinan Li
+- "***Peinan Li***"
 - Lutan Zhao
 - Jiameng Ying
 - Amro Awad
